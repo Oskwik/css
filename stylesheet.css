@@ -1,0 +1,31 @@
+header{
+top: 10%;
+background: green;
+font-family: sans-serif;
+padding: 0;
+margin: 0;
+border-radius: 100;
+}
+
+
+aside {
+  float: left;
+  width: 25%;
+   width: 230px;
+    border: 2px solid green;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 10px
+}
+main {
+	background-color: lightblue;
+  margin-left: 25%;
+  width: 50%;
+}
+footer{
+	text-align: center;
+	bottom: 10%;
+background-color: lightgray;
+
+
+}
